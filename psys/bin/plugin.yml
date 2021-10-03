@@ -1,0 +1,8 @@
+name : PrivDoorsDTZ
+main : com.moon.moon.main
+version : 1.2
+author : captain0potlid
+commands :
+  test:
+  kor:
+  display:
