@@ -1,0 +1,21 @@
+name : PermSYS
+main : com.moon.moon.main
+version : 1.0
+author : captain0potlid
+api-version: 1.12
+commands :
+  test:
+    description : gives player dash sword
+    usage : /sworddash
+  kor:
+    description : gives player dash sword
+    usage : /sworddash
+  display:
+    description : gives player dash sword
+    usage : /sworddash
+  allperm:
+    description : awfwfawffea
+    usage : /allperm
+  clearperm:
+    description : awfwfawffea
+    usage : /allperm
